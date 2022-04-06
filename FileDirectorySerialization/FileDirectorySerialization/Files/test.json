@@ -1,0 +1,20 @@
+{
+  "Id": 1,
+  "Name": "test course",
+  "Students": [
+    {
+      "Id": 1,
+      "Name": "Hafiz",
+      "Surname": "Mehdiyev",
+      "Age": 21,
+      "Point": 78.0
+    },
+    {
+      "Id": 2,
+      "Name": "Allahverdi",
+      "Surname": "Ahmedov",
+      "Age": 20,
+      "Point": 75.5
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": 1,
+  "Name": "Seymir MMC",
+  "Employees": [
+    {
+      "Id": 1,
+      "Name": "Allahverdi",
+      "Salary": 750.6
+    },
+    {
+      "Id": 2,
+      "Name": "Rovshan",
+      "Salary": 760.0
+    },
+    {
+      "Id": 3,
+      "Name": "Mushvig",
+      "Salary": 1000.6
+    }
+  ]
+}

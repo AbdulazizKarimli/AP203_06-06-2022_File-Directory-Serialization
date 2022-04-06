@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDirectorySerialization", "FileDirectorySerialization\FileDirectorySerialization.csproj", "{5AF84128-0A00-4500-B788-D8E6229D02A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06042022", "06042022\06042022.csproj", "{EEE100EF-FC31-4D9C-84EE-AAD33F4A6A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF84128-0A00-4500-B788-D8E6229D02A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF84128-0A00-4500-B788-D8E6229D02A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF84128-0A00-4500-B788-D8E6229D02A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF84128-0A00-4500-B788-D8E6229D02A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE100EF-FC31-4D9C-84EE-AAD33F4A6A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE100EF-FC31-4D9C-84EE-AAD33F4A6A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE100EF-FC31-4D9C-84EE-AAD33F4A6A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE100EF-FC31-4D9C-84EE-AAD33F4A6A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74172E9B-3142-4ACC-A3E6-1AEC872592CA}
+	EndGlobalSection
+EndGlobal

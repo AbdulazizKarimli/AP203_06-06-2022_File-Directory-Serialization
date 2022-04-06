@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cR4881Lfy7LEKvCz82tDOlMoX/nijxJ+ISQC0mKYUkxsnIL3INKdLESz/nf/Ftghjdv7rBd0Q8075ZxHgta+HQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\CodeAcademy\\Work\\AzTU\\AP203\\C#\\ClassWorks\\AP203_06-06-2022_File-Directory-Serialization\\FileDirectorySerialization\\FileDirectorySerialization\\FileDirectorySerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
